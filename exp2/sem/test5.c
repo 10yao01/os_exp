@@ -10,6 +10,7 @@
 #define SIZE 10
 
 #include <sys/sem.h>
+
 union semun
 {
     int val;
